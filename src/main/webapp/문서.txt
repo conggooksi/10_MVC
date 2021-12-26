@@ -1,0 +1,29 @@
+프로젝트 만들고  : 11_MVC
+   
+  META-INF /context.xml  커넥션 풀 (DB사용)
+
+  back-end  복붙
+  boardmysql//DAO,DTO
+  member/DAO,DTO
+
+
+CommandPro.properties  복붙
+
+controller 
+Action
+  복붙
+
+WEB-INF/web.xml   컨트롤러 등록 수정
+
+WEB-INF/jstl.jar
+        standard.jar 복붙
+        
+뷰: 복붙
+   header
+   module
+   template
+   board
+   imgs
+   member
+
+  template/template.jsp 실행
